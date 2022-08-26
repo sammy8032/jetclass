@@ -1,0 +1,18 @@
+.big-box {
+    display: flex;
+    margin: 0.5px 0.1px;
+    border: 0.01px solid black;
+    border-radius: 0px;
+    gap: 5px;
+
+}
+.display-picture button {
+    color: white;
+    background-color:  blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 0ch;
+}
+.big-box a{
+    display: flex;
+    justify-content: space-between;
+}
